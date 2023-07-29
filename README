@@ -1,20 +1,16 @@
-Apologies for that oversight. Here's the rewritten text using GitHub Flavored Markdown (GFM):
+## 📦 AmzTrack - Never Miss a Price Drop on Your Favorite Amazon Product! 🛍️
 
-📦 **AmzTrack - Never Miss a Price Drop on Your Favorite Amazon Product!** 🛍️
-
-#### :rocket: Get Started
-
-To use AmzTrack, follow these steps:
+To get started with AmzTrack, follow these steps:
 
 1. **Install Python and the necessary libraries**: Make sure you have Python installed on your computer. If not, download it from [here](https://www.python.org/downloads/). After installing Python, open your terminal or command prompt and run the following commands to install the required Python libraries:
 
-   
+   ```
    pip install requests beautifulsoup4 urllib3==2.0.4
+   ```
    
+   (Optional advanced usage) If you want to run AmzTrack as a server, also install FastAPI and Uvicorn:
    
-   If you want to run AmzTrack as a server, also install FastAPI and Uvicorn:
-   
-   ```bash
+   ```
    pip install fastapi uvicorn
    ```
 
@@ -49,7 +45,7 @@ To use AmzTrack, follow these steps:
 
    The script will send you updates on Telegram every 2 minutes!
 
-   :bulb: **Tip**: To run the script continuously, set up your computer to prevent it from sleeping, or run the script on a server.
+   💡 **Tip**: To run the script continuously, set up your computer to prevent it from sleeping, or run the script on a server.
 
    - On Mac, use these commands to disable sleep mode and run the script as a continuous process:
 
@@ -66,6 +62,6 @@ To use AmzTrack, follow these steps:
 
    - You can do similar configurations on Linux and Windows to disable sleep and network sleep from Power Management.
 
-7. :tada: Congratulations! You're all set to never miss a price drop on your favorite Amazon product again. Happy shopping and happy coding! 🎉
+7. 🎉 Congratulations! You're all set to never miss a price drop on your favorite Amazon product again. Happy shopping and happy coding! 🎉
 
 For more details and to share feedback, check out the [Documentation](https://github.com/phreakyphoenix/AmzTrack). Feel free to open Issues and Pull Requests if you have any suggestions or improvements. Let's make AmzTrack even better together! 💬
