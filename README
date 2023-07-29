@@ -1,3 +1,5 @@
+Apologies for that oversight. Here's the rewritten text using GitHub Flavored Markdown (GFM):
+
 📦 **AmzTrack - Never Miss a Price Drop on Your Favorite Amazon Product!** 🛍️
 
 #### :rocket: Get Started
@@ -6,13 +8,13 @@ To use AmzTrack, follow these steps:
 
 1. **Install Python and the necessary libraries**: Make sure you have Python installed on your computer. If not, download it from [here](https://www.python.org/downloads/). After installing Python, open your terminal or command prompt and run the following commands to install the required Python libraries:
 
-   ```
+   
    pip install requests beautifulsoup4 urllib3==2.0.4
-   ```
+   
    
    If you want to run AmzTrack as a server, also install FastAPI and Uvicorn:
    
-   ```
+   ```bash
    pip install fastapi uvicorn
    ```
 
