@@ -64,4 +64,4 @@ To get started with AmzTrack, follow these steps:
 
 7. 🎉 Congratulations! You're all set to never miss a price drop on your favorite Amazon product again. Happy shopping and happy coding! 🎉
 
-For more details and to share feedback, check out the [Documentation](https://github.com/phreakyphoenix/AmzTrack). Feel free to open Issues and Pull Requests if you have any suggestions or improvements. Let's make AmzTrack even better together! 💬
+For more details about usage, check out this [Blog article](https://phreakyphoenix.tech/blog/amztrack-track-amazon-prices-with-python). Feel free to open Issues and Pull Requests if you have any suggestions or improvements. Let's make AmzTrack even better together! 💬
